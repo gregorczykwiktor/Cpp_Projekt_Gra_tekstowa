@@ -1,0 +1,13 @@
+strings		|mam
+beep		|mam
+czytaj		|mam
+zapisz		|mam
+for		|mam
+funkcje		|mam
+getch		|mam
+kolor		|mam
+polskie znaki	|mam
+rand		|mam
+switchcase	|mam
+tablica		|
+while		|mam
